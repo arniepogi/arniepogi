@@ -1,8 +1,9 @@
-- 👋 Hello, I’m Arnie
-- 👀 MISS KO NA SIYA
-- 🌱 MISS NIYA NA RIN KAYA AKO?
-- 💞️ REACH OUT NA OH
-- 📫 MISS YOU
+- <string>
+- K.
+- I remember when <input>
+- We were sitting down on the restaurant <input>
+- But I could tell that something had change:( <input>
+- KIRSTEN, COME RIGHT BACKKK
   
 
 <!---
